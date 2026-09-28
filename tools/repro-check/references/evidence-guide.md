@@ -25,29 +25,20 @@ like. Write the map you wish your grader had.
 
 ## Environment
 
-<!-- Where the environment record lives, and what a sufficient one
-looks like against the issue's stated target. -->
+In the repro report's environment section. A sufficient record names the tool version and operating system used to reproduce. The versions named should match the issue's stated target, or the difference is explicitly called out.
 
 ## Steps
 
-<!-- Where the reproduction steps live, and what makes them followable
-by a stranger, starting state to trigger. -->
+In the repro report's reproduction steps section. Steps are followable if a stranger could run them exactly as written without guessing. They should start from a fresh clone and include all necessary commands and inputs.
 
 ## Behavior shown
 
-<!-- Where the artifacts live (output excerpts, logs, screenshots),
-and what it means for an artifact to show the issue's behavior rather
-than an adjacent one. -->
+In the repro report's actual output, error logs, or screenshots. The error or behavior shown should match the specific issue being reproduced, not a different error that happens to occur with different inputs. The output excerpt demonstrates the same problem described in the issue.
 
 ## Honesty
 
-<!-- Where claims and their backing meet: how to tell a report that
-says exactly what happened (including an honest cannot-reproduce) from
-one that claims more than its evidence shows. -->
+In the claim comment and repro report together. The report states what was expected and what actually happened. If the reproduction succeeds, the actual output shown proves the issue occurred. If the reproduction fails, an honest cannot-reproduce with evidence is acceptable. The claim comment should not promise more than the report shows.
 
 ## Comms
 
-<!-- Where the words meet the repo: the claim comment against the
-issue, the comments against the repo's stated templates and
-contribution policy (including AI-use disclosure requirements), and
-what specific-and-honest looks like next to boilerplate. -->
+In the claim comment on the issue. The claim identifies the issue being reproduced and names what the contributor will do next. The language respects the repo's contribution policy and any AI-use disclosure requirements.

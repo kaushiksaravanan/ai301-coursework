@@ -15,13 +15,11 @@ wrong label is not graded.
 
 **Issue link**
 
-[The individual Path Review issue page. A link to the repository or the issue list
-does not satisfy this field.]
+https://github.com/codepath/pathreview-ai301-fa26-s3/issues/73
 
 **Verdict output**
 
-[Your skill's live-mode output for this issue, pasted verbatim and ending with the
-fenced JSON verdict block. A summary does not satisfy this field.]
+[Skill verdict output to be added after running live mode]
 
 **The verdict must record `accept` for this issue.** Choose an issue your own skill
 accepts. If your skill rejects every candidate you try, that is a signal about your
@@ -30,7 +28,7 @@ partial re-run costs about $0.20 — or run the skill on different candidates. O
 recording `reject` for the issue you chose earns no credit for this field.
 
 ```
-paste the output here, including the closing JSON block
+[To be updated after skill verification]
 ```
 
 ---
