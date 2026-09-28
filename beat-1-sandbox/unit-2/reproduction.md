@@ -23,7 +23,7 @@ kaushiksaravanan
 
 **Claim comment**
 
-[Link: https://github.com/codepath/pathreview-ai301-fa26-s3/issues/73#comment-XXXXX]
+https://github.com/codepath/pathreview-ai301-fa26-s3/issues/73#issuecomment-5867180945
 
 ```
 ## Claim: Reproduce README/.env.example disagreement
@@ -39,7 +39,7 @@ kaushiksaravanan
 
 **Reproduction comment**
 
-[Link: https://github.com/codepath/pathreview-ai301-fa26-s3/issues/73#comment-XXXXX]
+https://github.com/codepath/pathreview-ai301-fa26-s3/issues/73#issuecomment-5867191911
 
 ```
 ## Reproduction Report
